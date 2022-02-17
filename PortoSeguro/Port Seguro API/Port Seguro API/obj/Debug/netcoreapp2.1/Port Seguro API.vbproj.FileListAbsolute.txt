@@ -1,0 +1,11 @@
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\bin\Debug\netcoreapp2.1\Port Seguro API.deps.json
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\bin\Debug\netcoreapp2.1\Port Seguro API.runtimeconfig.json
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\bin\Debug\netcoreapp2.1\Port Seguro API.runtimeconfig.dev.json
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\bin\Debug\netcoreapp2.1\Port Seguro API.dll
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\bin\Debug\netcoreapp2.1\Port Seguro API.pdb
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\obj\Debug\netcoreapp2.1\Port Seguro API.vbprojAssemblyReference.cache
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\obj\Debug\netcoreapp2.1\Port Seguro API.vbproj.CoreCompileInputs.cache
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\obj\Debug\netcoreapp2.1\Port Seguro API.AssemblyInfoInputs.cache
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\obj\Debug\netcoreapp2.1\Port Seguro API.AssemblyInfo.vb
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\obj\Debug\netcoreapp2.1\Port Seguro API.dll
+C:\wictor\PortoSeguro\Port Seguro API\Port Seguro API\obj\Debug\netcoreapp2.1\Port Seguro API.pdb
