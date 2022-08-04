@@ -41,9 +41,9 @@ Module AcessoApi
 
             'segundo acesso requsisçao e envio de arquivo
             Dim postData = New NameValueCollection
-            postData.Add("comp", "5")
-            postData.Add("mod", "Upload")
-            postData.Add("path", "eguarda/php/")
+            postData.Add("comp", "****")
+            postData.Add("mod", "*****")
+            postData.Add("path", "*****")
             postData.Add("recipient", "")
 
             documento = request.CriarPostHttpRequestAsDocument()
