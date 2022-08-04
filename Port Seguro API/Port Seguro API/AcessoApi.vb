@@ -31,10 +31,10 @@ Module AcessoApi
             .userAgent = "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0",
             .ContentType = "application/x-www-form-urlencoded"
             }
-            request.AddPostData("mod", "login")
-            request.AddPostData("comp", "5")
-            request.AddPostData("user", "57460644000180")
-            request.AddPostData("pass", "Beto@134")
+            request.AddPostData("mod", "*****")
+            request.AddPostData("comp", "***")
+            request.AddPostData("user", "*****")
+            request.AddPostData("pass", "*****")
 
             Dim documento = request.CriarPostHttpRequestAsDocument()
             Dim cookie = request.Cookie
